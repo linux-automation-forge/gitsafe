@@ -1,0 +1,1 @@
+ash 4+, git 2.x, Linux/WSL. No other dependencies.
